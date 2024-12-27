@@ -4,7 +4,7 @@ import importlib.util
 
 # Define available pages
 pages = {
-    "ASIN Data Processing App": "pages/asin_data.py",
+    "Amazon Inventory Ledger": "pages/asin_data.py",
     "Another Page": "pages/another_page.py",
 }
 
