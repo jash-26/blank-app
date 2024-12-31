@@ -6,6 +6,7 @@ import importlib.util
 pages = {
     "Amazon Inventory Ledger": "pages/asin_data.py",
     "Another Page": "pages/another_page.py",
+    "Another Page 2":"pages/another_page2.py",
 }
 
 # Sidebar menu for navigation
